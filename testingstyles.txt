@@ -1,0 +1,47 @@
+Testing Methodolgies
+
+Aggression Testing: If this doesn't work, I'm gonna kill somebody.
+
+Compression Testing: []
+
+Confession Testing: Okay, Okay, I did program that bug.
+
+Congressional Testing: Are you now, or have you ever been a bug?
+
+Depression Testing: If this doesn't work, I'm gonna kill myself.
+
+Egression Testing: Uh-oh, a bug... I'm outta here.
+
+Digression Testing: Well, it works, but can I tell you about my truck...
+
+Expression Testing: #@%^&*, a bug.
+
+Obsession Testing: I'll find this bug if it's the last thing I do.
+
+Oppression Testing: Test this now!
+
+Poison Testing: Alors! Regardez le poison!
+
+Repression Testing: It's not a bug, it's a feature.
+
+Secession Testing: The bug is dead! Long lives the bug!
+
+Suggestion Testing: Well, it works but wouldn't it be better if...
+
+Digestion Testing- This fix is a little hard to swallow.
+
+Transgression Testing- Honest, offishure, I only had a few {burp} beers
+before I started Testing the software.
+
+Congressional Testing: Are you now, or have you ever been a bug?
+
+Admission Testing: Roll up, roll up, come on in! $10 for the big grown up
+bugs, only $2.50 for the kids!
+
+Interrogational Testing: Tell us what we want to know, bug, or we'll cut
+off your subroutines one by one...
+
+Inspirational Testing: How I compare thee to a summers day swarm...
+
+Concession Testing: Ok, we get a bug free List Box and in exchange you
+get to play havoc with the Drop Down Menus.
